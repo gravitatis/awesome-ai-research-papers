@@ -1,0 +1,33 @@
+{
+  "title": "Awesome AI Research Papers",
+  "description": "A curated list of important, influential, and useful artificial intelligence research papers, organized to help readers discover foundational work, emerging areas, and practical research directions across AI.",
+  "creators": [
+    {
+      "name": "Himpfen, Brandon",
+      "affiliation": "Brandon Himpfen"
+    }
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "AI",
+    "machine learning",
+    "deep learning",
+    "large language models",
+    "natural language processing",
+    "computer vision",
+    "reinforcement learning",
+    "AI research",
+    "awesome list",
+    "research papers"
+  ],
+  "license": "cc0-1.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/brandonhimpfen/awesome-ai-research-papers",
+      "scheme": "url"
+    }
+  ]
+}

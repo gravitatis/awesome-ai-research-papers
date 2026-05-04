@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome AI Research Papers"
+abstract: "A curated list of important, influential, and useful artificial intelligence research papers, organized to help readers discover foundational work, emerging areas, and practical research directions across AI."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-ai-research-papers"
+keywords:
+  - artificial intelligence
+  - AI
+  - machine learning
+  - deep learning
+  - large language models
+  - natural language processing
+  - computer vision
+  - reinforcement learning
+  - AI research
+  - awesome list
+  - research papers
